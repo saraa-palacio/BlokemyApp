@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(219, 228, 254);
+    font-family: 'comic sans MS';
+}
+
+.fav-btn{
+    width: 30px;
+    height: 30px;
+    background-color: #f2f2f2;
+    border-radius: 30px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    right: 10px;
+    top: 10px;
+    border: none;
+    font-size: 13px;
+}
+
